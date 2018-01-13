@@ -1,5 +1,6 @@
 package com.mazouzi.trendingRepos.repos;
 
+import android.app.Activity;
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,11 +10,14 @@ import java.util.List;
 
 
 public class ReposAdapter extends ArrayAdapter<Repos> {
-
-    public ReposAdapter(Context c, List<Repos> repos) {
+    Context context;
+    public ReposAdapter(Activity c, List<Repos> repos) {
         super(c, 0, repos);
+        context=c.getApplicationContext();
+
+
     }
-    
+
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
