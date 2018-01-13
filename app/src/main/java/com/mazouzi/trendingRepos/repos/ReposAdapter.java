@@ -10,10 +10,8 @@ import java.util.List;
 
 
 public class ReposAdapter extends ArrayAdapter<Repos> {
-    Context context;
     public ReposAdapter(Activity c, List<Repos> repos) {
         super(c, 0, repos);
-        context=c.getApplicationContext();
 
 
     }
