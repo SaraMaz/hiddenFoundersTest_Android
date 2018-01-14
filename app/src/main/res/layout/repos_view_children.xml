@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/reposName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="title text"
+        />
+    <TextView
+        android:id="@+id/reposDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reposName"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="15dp"
+
+        android:text="description text"
+
+        />
+    <ImageView
+
+        android:layout_marginTop="10px"
+        android:id="@+id/avatar"
+        android:background="@android:drawable/ic_lock_lock"
+        android:layout_margin="5dp"
+        android:layout_marginRight="100dp"
+        android:paddingRight="500dp"
+        android:layout_below="@id/reposDescription"
+        android:contentDescription="@string/item_imageView_contentDescription"
+        android:layout_height="20dp"
+        android:layout_width="20dp" />
+    <TextView
+        android:id="@+id/reposOwnerName"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reposDescription"
+        android:layout_toRightOf="@id/avatar"
+        android:text="description text"
+        android:layout_width="100dp" />
+    <ImageView
+        android:id="@+id/Star"
+        android:layout_width="20dp"
+        android:paddingLeft="200dp"
+        android:layout_marginLeft="150dp"
+        android:layout_height="20dp"
+        android:layout_below="@id/reposDescription"
+        android:layout_toRightOf="@id/reposOwnerName"
+        android:background="@android:drawable/btn_star_big_on" />
+    <TextView
+        android:id="@+id/numberStars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reposDescription"
+        android:layout_toRightOf="@id/Star"
+        android:layout_margin="0dp"
+        android:text="description text"
+        />
+</merge>

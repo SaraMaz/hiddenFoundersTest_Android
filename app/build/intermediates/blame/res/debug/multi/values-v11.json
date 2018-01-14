@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 10,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 171,
+                        "endLine": 8,
+                        "endColumn": 10,
+                        "endOffset": 297
+                    }
+                }
+            }
+        ]
+    }
+]

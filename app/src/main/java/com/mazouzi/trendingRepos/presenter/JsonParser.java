@@ -19,7 +19,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import android.util.Log;
-//class used to parse Json file  and extract the JsonObject
+//Class used to parse Json file  and extract the JsonObject
 public class JsonParser {
 
     static InputStream is = null;

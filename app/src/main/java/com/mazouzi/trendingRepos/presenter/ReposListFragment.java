@@ -42,7 +42,7 @@ public class ReposListFragment extends ListFragment {
         @Override
         protected Void doInBackground(Void... arg0) {
             HttpHandler sh = new HttpHandler();
-            // Making a request to url snd getting repositories
+            // making a request to url snd getting repositories
             String url = "https://api.github.com/search/repositories?q=created:>2017-10-22&sort=stars&order=desc";
             String jsonStr = sh.makeServiceCall(url);
 

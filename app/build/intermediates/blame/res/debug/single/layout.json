@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repos_view_children.xml",
+        "source": "D:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\src\\main\\res\\layout\\repos_view_children.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_trending_repos.xml",
+        "source": "D:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\src\\main\\res\\layout\\activity_list_trending_repos.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repos_view.xml",
+        "source": "D:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\src\\main\\res\\layout\\repos_view.xml"
+    }
+]

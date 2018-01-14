@@ -1,0 +1,7 @@
+#Sun Jan 14 14:52:15 CET 2018
+base.0=D\:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_48eb794661b02fb3fe1f368b31cee60285e0d0c1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a1782847da0d1d1d86853c2d326c30db01bfd42b\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a1782847da0d1d1d86853c2d326c30db01bfd42b
+file.0=D\:\\AndroidStudioProjects\\MostStarredGithubRepos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_48eb794661b02fb3fe1f368b31cee60285e0d0c1\\classes.dex
